@@ -11,3 +11,7 @@ print('')
 
 while True:
     pass
+
+while
+
+    hcfdggb
