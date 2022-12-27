@@ -7,3 +7,7 @@ for i in s:
 print("Chunki u biz")
 
 print('')
+
+
+while True:
+    pass
