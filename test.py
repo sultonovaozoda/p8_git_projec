@@ -5,3 +5,5 @@ for i in s:
     print(i)
 
 print("Chunki u biz")
+
+print('')
